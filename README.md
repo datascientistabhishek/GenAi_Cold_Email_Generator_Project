@@ -62,3 +62,5 @@ We welcome contributions to improve the accuracy and effectiveness of our Cold E
 ## Acknowledgments
 
 We would like to thank the developers of Groq, Langchain, and Streamlit for their amazing tools and libraries.
+## Vedio Demo
+https://github.com/user-attachments/assets/851dd98e-ea15-469b-bb7b-b0c34b6a4a6b
